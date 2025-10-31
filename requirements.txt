@@ -1,0 +1,8 @@
+
+streamlit
+langchain-groq
+python-dotenv
+requests
+tenacity
+langchain-core
+langchain-community
